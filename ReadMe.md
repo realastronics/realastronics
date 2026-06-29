@@ -141,10 +141,9 @@ Fist to jump. Pinch to flap. Controls a Flappy Bird clone using hand gestures vi
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=realastronics&show_icons=true&theme=tokyonight&hide_border=true&title_color=00b4d8&icon_color=7F52FF&text_color=c9d1d9&bg_color=0d1117&count_private=true&hide=stars" height="160" />
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=realastronics&layout=compact&theme=tokyonight&hide_border=true&title_color=00b4d8&text_color=c9d1d9&bg_color=0d1117&langs_count=6" height="160" />
+<img src="https://github-readme-stats.shion.dev/api?username=realastronics&show_icons=true&theme=tokyonight&hide_border=true&title_color=00b4d8&icon_color=7F52FF&text_color=c9d1d9&bg_color=0d1117&count_private=true&hide=stars" height="160" />
 
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=realastronics&layout=compact&theme=tokyonight&hide_border=true&title_color=00b4d8&text_color=c9d1d9&bg_color=0d1117&langs_count=6" height="160" />
 <br/><br/>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=realastronics&theme=tokyonight&hide_border=true&ring=00b4d8&fire=7F52FF&currStreakLabel=00b4d8)](https://github.com/realastronics)
