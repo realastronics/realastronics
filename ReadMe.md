@@ -17,8 +17,7 @@
   Alias       realastronics
   Location    Delhi, IN
   Study       B.Tech CSE · BML Munjal University · '28
-  Research    JNU · Computational & Integrative Sciences · Prof. Anirban Chakraborti
-  Role        ACM BMU · active member
+  Research Intern    JNU · Computational & Integrative Sciences · Prof. Anirban Chakraborti
   Principle   care more about how a system is designed than what stack it runs on
 ```
 
