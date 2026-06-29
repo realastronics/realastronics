@@ -1,6 +1,8 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1B2A,50:0A1628,100:0D1117&height=110&section=header" />
+  
 # Parth Sharma
+
 <p>
   <a href="https://linkedin.com/in/parth-sharma-cs"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
   &nbsp;
@@ -8,16 +10,23 @@
   &nbsp;
   <a href="https://prosopography-nobel-laureates-jnu.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo-00C8FF?style=flat-square&logo=vercel&logoColor=black" /></a>
 </p>
+
 </div>
+
 ---
+
 ```
 > backend engineer · systems thinker · CSE @ BML Munjal (2028)
 > I build things that learn, connect, and scale — then try to understand why they work
+
 ```
+
 I care about **how systems are designed** more than what stack they run on. Currently researching computational social science at JNU while building full-stack systems at the intersection of AI, graph theory, and real data. I think in abstractions but I ship in code.
+
 ---
 
 ## What I've Built
+
 **Hiring Pipeline Automation**
 End-to-end system that automates job tracking, application state management, and outreach. Built because the process is broken and the tooling is worse.
 `Python` `FastAPI` `PostgreSQL`
