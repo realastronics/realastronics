@@ -14,11 +14,9 @@
 
 ```text
   Name        Parth Sharma
-  Alias       realastronics
-  Location    Delhi, IN
-  Study       B.Tech CSE · BML Munjal University · '28
-  Research Intern    JNU · Computational & Integrative Sciences · Prof. Anirban Chakraborti
-  Principle   care more about how a system is designed than what stack it runs on
+  Education       B.Tech CSE · BML Munjal University · '28
+  Expereince    JNU · Research Intern in Computational Sciences, AI & Interdisciplinary Systems · Prof. Anirban Chakraborti
+  Motto   Curiosity motivates, understanding enhances, and building is how you impact
 ```
 
 ---
@@ -27,6 +25,20 @@
 
 <table>
 <tr>
+<td width="50%" valign="top">
+
+### Hiring Pipeline Automation
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)]()
+[![Gmail API](https://img.shields.io/badge/Gmail%20API-EA4335?style=flat-square&logo=gmail&logoColor=white)]()
+[![Google Calendar](https://img.shields.io/badge/Calendar%20API-0F9D58?style=flat-square&logo=googlecalendar&logoColor=white)]()
+[![OAuth](https://img.shields.io/badge/OAuth-4285F4?style=flat-square&logo=google&logoColor=white)]()
+
+AI-powered hiring dashboard for lean HR teams. Screens hundreds of resumes in seconds, sends personalised Gmail outreach, books interviews directly on Google Calendar — one dashboard, zero context switching. Private beta.
+
+[→ hiring-pipeline-automation.vercel.app](https://hiring-pipeline-automation.vercel.app)
+
+</td>
+</tr>
 <td width="50%" valign="top">
 
 ### Emoji Explorer
@@ -42,20 +54,6 @@ Pokémon Go–style AR game anchored to the BMU campus. Players explore physical
 [→ View repo](https://github.com/realastronics/emoji-explorer)
 
 </td>
-<td width="50%" valign="top">
-
-### Hiring Pipeline Automation
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)]()
-[![Gmail API](https://img.shields.io/badge/Gmail%20API-EA4335?style=flat-square&logo=gmail&logoColor=white)]()
-[![Google Calendar](https://img.shields.io/badge/Calendar%20API-0F9D58?style=flat-square&logo=googlecalendar&logoColor=white)]()
-[![OAuth](https://img.shields.io/badge/OAuth-4285F4?style=flat-square&logo=google&logoColor=white)]()
-
-AI-powered hiring dashboard for lean HR teams. Screens hundreds of resumes in seconds, sends personalised Gmail outreach, books interviews directly on Google Calendar — one dashboard, zero context switching. Private beta.
-
-[→ hiring-pipeline-automation.vercel.app](https://hiring-pipeline-automation.vercel.app)
-
-</td>
-</tr>
 <tr>
 <td width="50%" valign="top">
 
