@@ -38,7 +38,6 @@ AI-powered hiring dashboard for lean HR teams. Screens hundreds of resumes in se
 [→ hiring-pipeline-automation.vercel.app](https://hiring-pipeline-automation.vercel.app)
 
 </td>
-</tr>
 <td width="50%" valign="top">
 
 ### Emoji Explorer
@@ -54,7 +53,6 @@ Pokémon Go–style AR game anchored to the BMU campus. Players explore physical
 [→ View repo](https://github.com/realastronics/emoji-explorer)
 
 </td>
-<tr>
 <td width="50%" valign="top">
 
 ### Utsav
@@ -67,6 +65,7 @@ Android marketplace connecting event hosts with professional managers. Hosts fil
 [→ View repo](https://github.com/realastronics/Application-Utsav)
 
 </td>
+</tr>
 <td width="50%" valign="top">
 
 ### GameLinked
