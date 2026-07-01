@@ -25,6 +25,7 @@
 
 <table>
 <tr>
+<td>
 <td width="50%" valign="top">
 
 ### Hiring Pipeline Automation
