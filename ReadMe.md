@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=Parth+Sharma+%C2%B7+realastronics;backend+engineer+%C2%B7+AI+automations;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=curiosity+%C2%B7+real+problems;Parth+Sharma+%C2%B7+realastronics;backend+engineer+%C2%B7+AI+automations;)](https://git.io/typing-svg)
 
 <br/>
 
