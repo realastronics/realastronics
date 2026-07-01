@@ -20,13 +20,11 @@
 ```
 
 ---
-
 ## Featured Projects
 
 <table>
-<tr>
-<td>
-<td width="50%" valign="top">
+  <tr>
+    <td width="50%" valign="top">
 
 ### Hiring Pipeline Automation
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)]()
@@ -38,8 +36,9 @@ AI-powered hiring dashboard for lean HR teams. Screens hundreds of resumes in se
 
 [→ hiring-pipeline-automation.vercel.app](https://hiring-pipeline-automation.vercel.app)
 
-</td>
-<td width="50%" valign="top">
+   </td>
+
+   <td width="50%" valign="top">
 
 ### Emoji Explorer
 [![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)]()
@@ -47,27 +46,17 @@ AI-powered hiring dashboard for lean HR teams. Screens hundreds of resumes in se
 [![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white)]()
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)]()
 
-Pokémon Go–style AR game anchored to the BMU campus. Players explore physical space to discover emoji objects via GPS and capture them through AR. Built for ACM BMU's **GLITCH 2.0** techfest — team scoring, power-ups, sabotage, live leaderboard.
+Pokémon Go–style AR game anchored to the BMU campus. Players explore physical space to discover emoji objects via GPS and capture them through AR.
 
 **Played by real people. At a real event.**
 
 [→ View repo](https://github.com/realastronics/emoji-explorer)
 
-</td>
-<td width="50%" valign="top">
+   </td>
+  </tr>
 
-### Utsav
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)]()
-[![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)]()
-[![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white)]()
-
-Android marketplace connecting event hosts with professional managers. Hosts filter by location and budget; managers build portfolios and field incoming requests. Real-time in-app chat throughout.
-
-[→ View repo](https://github.com/realastronics/Application-Utsav)
-
-</td>
-</tr>
-<td width="50%" valign="top">
+  <tr>
+    <td width="50%" valign="top">
 
 ### GameLinked
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)]()
@@ -75,29 +64,26 @@ Android marketplace connecting event hosts with professional managers. Hosts fil
 [![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)]()
 [![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)]()
 
-LinkedIn for gamers, built backend-first. REST API, Prisma ORM, clean service/controller separation from day one. Social networks are interesting as systems problems.
+LinkedIn for gamers, built backend-first. REST API, Prisma ORM, clean service/controller separation from day one.
 
 [→ View repo](https://github.com/realastronics/GameLinked)
 
-</td>
-</tr>
-</table>
+   </td>
 
-<details>
-<summary><b>+ Flappy Bird — Hand Gesture Edition</b></summary>
-<br/>
+   <td width="50%" valign="top">
 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)]()
-[![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white)]()
-[![Pygame](https://img.shields.io/badge/Pygame-3776AB?style=flat-square&logo=python&logoColor=white)]()
+### Utsav
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)]()
+[![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)]()
+[![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white)]()
 
-Fist to jump. Pinch to flap. Controls a Flappy Bird clone using hand gestures via MediaPipe. Built for ACM BMU's club fair — freshers could immediately crack open `config.py` and see the physics change in real time.
+Android marketplace connecting event hosts with professional managers. Hosts filter by location and budget; managers build portfolios.
 
-[→ View repo](https://github.com/realastronics/FlappyBird-Using-Visual-Input)
+[→ View repo](https://github.com/realastronics/Application-Utsav)
 
-</details>
-
----
+   </td>
+  </tr>
+</table>---
 
 ## Stack
 
